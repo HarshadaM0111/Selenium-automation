@@ -1,5 +1,10 @@
 package test.selenium_automation;
 
+/*
+Go to university website than open the myntra after that navigate to SBI Bank than again open university  
+website refresh the page also printURL of university and title of myntra and close
+*/
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Test2 {
